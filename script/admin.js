@@ -1,4 +1,5 @@
-const baseUrl = 'https://your-glitch-json-server.com/books';
+ const baseUrl = 'http://localhost:3000/books';
+;
 
 const loginData = JSON.parse(localStorage.getItem('loginData'));
 if (!loginData || loginData.email !== 'admin@empher.com') {
