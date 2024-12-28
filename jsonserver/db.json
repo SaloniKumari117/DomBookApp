@@ -1,0 +1,18 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Sample Book",
+        "author": "Author Name",
+        "category": "Fiction",
+        "isAvailable": true,
+        "isVerified": false,
+        "borrowedDays": null,
+        "imageUrl": "https://m.media-amazon.com/images/I/71ZB18P3inL._SY522_.jpg"
+      }
+    ]
+  }
+
+
+
+  
